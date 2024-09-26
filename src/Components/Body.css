@@ -1,0 +1,8 @@
+.row{
+    margin: 20px;
+    padding: 20px;
+}
+.show{
+    display: block;
+    margin: 10px auto;
+}
